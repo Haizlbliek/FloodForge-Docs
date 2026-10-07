@@ -1,7 +1,5 @@
 # World Editor
 
-Lorem Ipsum
-
 ## Controls
 
 Middle click + drag to move camera
