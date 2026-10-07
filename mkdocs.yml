@@ -1,9 +1,10 @@
 site_name: FloodForge Documentation
-site_url: https://haizlbliek.github.io/FloodForge-Docs/
+site_url: https://haizlbliek.github.io/floodforge/
 
 theme:
   name: material
   palette:
+    scheme: slate
     primary: indigo
     accent: indigo
 
