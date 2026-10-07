@@ -7,10 +7,4 @@ theme:
     primary: indigo
     accent: indigo
 
-docs_dir: ../
-
-exclude_docs: |
-  .github/
-  .git/
-  .gitmodules
-  mkdocs.yml
+docs_dir: docs/
