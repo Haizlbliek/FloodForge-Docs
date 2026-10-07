@@ -1,5 +1,5 @@
 site_name: FloodForge Documentation
-site_url: https://github.io
+site_url: https://haizlbliek.github.io/FloodForge-Docs/
 
 theme:
   name: material
@@ -7,8 +7,10 @@ theme:
     primary: indigo
     accent: indigo
 
-docs_dir: '.'
+docs_dir: .
 
 exclude_docs: |
   .github/
+  .git/
+  .gitmodules
   mkdocs.yml
