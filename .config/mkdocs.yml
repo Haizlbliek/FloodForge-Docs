@@ -7,7 +7,7 @@ theme:
     primary: indigo
     accent: indigo
 
-docs_dir: .
+docs_dir: ../
 
 exclude_docs: |
   .github/
